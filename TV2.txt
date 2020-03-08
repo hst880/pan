@@ -1,0 +1,157 @@
+AJ,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+AJ2,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+AJ3, https://live-hls-web-aje.getaj.net/AJE/06.m3u8
+AJ4, https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+AustralianBC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+France24,http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+NHK,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+DW2,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+DW3,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_5_av-p.m3u8
+DW4,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
+DW5,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-b.m3u8
+Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+TRT-World,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+FOX NEWS,http://f2.123fox.host/live/666f786e657773/playlist.m3u8
+IndiaToday, https://feeds.intoday.in/hltapps/api/master.m3u8
+RT,https://rt-news.secure.footprint.net/1103.m3u8
+PRESS TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+PRESS TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w570686369_b344100_slen.m3u8
+TeleSur,https://d7g1ebft2592.cloudfront.net/mblivev3/480p/playlist.m3u8
+The shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+WWSB,http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+CBN NEWS,http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
+CGTN Documentary,http://live.cgtn.com/cctv-d.m3u8
+JP 24news,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+JP Channel,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+KR Chosun,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+KR EBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+KR EBSe,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+VT ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+HELLO110,http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+BFMTV,https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+FR TV5,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+RaiNews24,https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
+CBS News HD,http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+CBS NY,https://cbslocallive-i.akamaihd.net/hls/live/724686/CBSNNY_2/master_1800.m3u8
+US-CSPAN1,http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+US-CSPAN2,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+US-CSPAN3,http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+US-Newsmax TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+DUNA WORLD,https://c202-node61-cdn.connectmedia.hu/1103/0877a12fffb300c65fd2296e043d5aae/5d44f825/06.m3u8
+Moldova1, http://www.trm.md/live/M1Mlive/playlist.m3u8
+MongolianNB,http://103.14.38.107:1935/live/mnb.stream/playlist.m3u8
+HONDURAS TSi,https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+The Country Network,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+Weather Channel,http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+WNBC NEWS,https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+QVC,http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+Russian8, http://v1.proofix.ru/live-tv8-2/europe/chunklist.m3u8
+N.KOREA,https://tv.nknews.org/tvhls/stream.m3u8
+TVBN,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
+NTDTV,https://live.ntdimg.com/live400/playlist.m3u8
+NTDTVTW,https://live2.ntdimg.com/cnlive/playlist.m3u8
+PhoenixInfonews,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
+Phoenix CH,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8National Geographic,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeoDiscovery,rtmp://58.200.131.2:1935/livetv/discoveryMOVIE2,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8MOVIE4,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8MOVIE5,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8MOVIE6,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8MOVIE7,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+FOX family,http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8  
+Family Gekijyo,http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+Eisei Gekijo,http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+Nihon Eiga TV,http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+Cinefil WOWOW,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+WGN9 HD,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+FLIXHD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+30A TV,http://30a-tv.com/my999.m3u8
+360 North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+Atlanta Channel，,http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+Beach TV - 30A,http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+Beach TV - Panama City,http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+Beach TV - Pawleys Island,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+Bounce TV,http://tv.bmx-tv.top:1935/live/5.smil/playlist.m3u8
+Bowie TV,http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+Buffalo TV,http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+Buzzr (Opt-1),http://tv.bmx-tv.top:1935/live/17.smil/playlist.m3u8
+California Music Channel,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+Cars.TV,http://tv.bmx-tv.top:1935/live/29.smil/playlist.m3u8
+CBS (Opt-2),http://tv.bmx-tv.top:1935/live/33.smil/playlist.m3u8
+CBS News (Opt-1),http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Comedy.TV，,http://tv.bmx-tv.top:1935/live/22.smil/playlist.m3u8
+Comet TV (Opt-2),http://tv.bmx-tv.top:1935/live/12.smil/playlist.m3u8
+Cozi TV,http://tv.bmx-tv.top:1935/live/14.smil/playlist.m3u8
+Daytona Beach TV,http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+District of Columbia Network，,http://video.oct.dc.gov/out/u/DCN.m3u8
+Entertainment Studios,http://tv.bmx-tv.top:1935/live/32.smil/playlist.m3u8
+Fight Network,http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+FNTSY Sports Network,http://tv.bmx-tv.top:1935/live/7.smil/playlist.m3u8
+Garland TV,http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+Get TV,http://tv.bmx-tv.top:1935/live/6.smil/playlist.m3u8
+Greenbelt TV,http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+House of Representatives,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+InfoWars,http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+Jewelry Television,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+Jupiter Broadcasting,http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
+Justice Central,http://tv.bmx-tv.top:1935/live/21.smil/playlist.m3u8
+Key TV,http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+Kool TV,http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+Light TV,http://tv.bmx-tv.top:1935/live/27.smil/playlist.m3u8
+Metro Cable Network,http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+MLB Network,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+MyDestination.TV,http://tv.bmx-tv.top:1935/live/31.smil/playlist.m3u8
+NBC (Opt-2),http://tv.bmx-tv.top:1935/live/34.smil/playlist.m3u8
+New Orleans TV,http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Orange TV,http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+Pets.TV,http://tv.bmx-tv.top:1935/live/30.smil/playlist.m3u8
+Pursuit,http://tv.bmx-tv.top:1935/live/3.smil/playlist.m3u8
+QVC (Opt-1),http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+QVC (Opt-1),http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+QVC 2,http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+Recipe.TV,http://tv.bmx-tv.top:1935/live/23.smil/playlist.m3u8
+Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Revn,http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+Revolt,http://tv.bmx-tv.top:1935/live/20.smil/playlist.m3u8
+RFD TV,http://tv.bmx-tv.top:1935/live/10.smil/playlist.m3u8
+Ride TV,http://tv.bmx-tv.top:1935/live/19.smil/playlist.m3u8
+Southeastern Channel,http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+Temple TV,http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+The Blaze (Opt-1),http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+The Blaze (Opt-2),http://tv.bmx-tv.top:1935/live/16.smil/playlist.m3u8
+The Weather Channel,http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+This TV,http://tv.bmx-tv.top:1935/live/15.smil/playlist.m3u8
+TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+TVW,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+TVW-2,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+VTV Channel 6 Colorado,http://hls.ksl.com/t/strata/playlist.m3u8
+Weather Nation,http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+West Ohio Sports Network,http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
+WHPR TV 33 Detroit,http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+NBC 11 News (Bay Area).,http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+NBC 5 News (Chicago),http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+WGN 9 News (Chicago),http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+WVIT 30 News (Hartford),http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+CBS 4 News (Indianapolis),http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+Channel 11 News WPXI (Pittsburgh),http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+ABC 7 News (Sarasota),http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+Assemblee Nationale du Quebec，,http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+Canadian Arab TV,http://192.226.228.32:8080/hls/catv/index.m3u8
+Canal Savoir,http://stream.canalsavoir.tv/livestream/stream.m3u8
+CTV News Live 1,http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+CTV News Live 2,http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+CTV News Live 3,http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+CTV News Live 4,http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+NTV Newfoundland,http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+sky TG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+Arise News,http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+Jewellery Maker,http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+Kool London Radio,http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+2UE Sydney,http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+3AW Melbourne,http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+4BC Brisbane,http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+Parliament TV (Opt-2),http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+TVSN,http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
